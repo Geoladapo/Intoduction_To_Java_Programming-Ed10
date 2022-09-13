@@ -7,6 +7,8 @@ package ch_01;
  * 2 4 8
  * 3 9 27
  * 4 16 64
+ *
+ * @author -> oladapo Elijah
  */
 public class Exercise01_04 {
     public static void main(String[] args) {
