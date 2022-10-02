@@ -17,7 +17,6 @@ import java.util.Scanner;
  * Write a program that prompts the user to enter a temperature between -58 ºF and
  * 41ºF and a wind speed greater than or equal to 2 and displays the wind-chill temperature.
  * Use Math.pow(a, b) to compute v0.16. Here is a sample run:
- *
  */
 public class Exercise02_17 {
     public static void main(String[] args) {
