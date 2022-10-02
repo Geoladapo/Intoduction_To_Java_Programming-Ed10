@@ -11,6 +11,7 @@ import java.util.Scanner;
  * s
  * 2
  * ,
+ *
  * where s is the length of a side.
  */
 public class Exercise02_16 {
